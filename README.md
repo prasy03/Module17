@@ -1,6 +1,10 @@
 ## Practical Application III – Comparing Classification Models
 ## Module 17 : Assignment 
 
+Link to Jupyter Notebook : [prompt_111-v3.ipynb](https://github.com/prasy03/Module17/blob/main/prompt_III-v3.ipynb)
+Link to data: [data](https://github.com/prasy03/Module17/tree/main/data) 
+Link to Images: [images](https://github.com/prasy03/Module17/tree/main/images)
+
 #### Project: Bank Marketing Campaign Prediction
 #### Objective: 
 Predict whether a customer will subscribe to a term deposit based on demographic and behavioral data.
